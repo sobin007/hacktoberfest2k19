@@ -12,3 +12,7 @@
  - GitHub: [sanxy](https://github.com/sanxy)
  ##### Name: [Abhishek Krishnan] (https://github.com/aks667)
  Website : https://abhishkrish.com
+#### Name: [Hutomo Sakti Kartiko](https://github.com/hutomosaktikartiko)
+ - Place: Pontianak, Indonesia
+ - Bio: Software Engineer
+ - GitHub: [sanxy](https://github.com/hutomosaktikartiko)
