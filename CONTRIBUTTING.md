@@ -15,4 +15,4 @@
 #### Name: [Hutomo Sakti Kartiko](https://github.com/hutomosaktikartiko)
  - Place: Pontianak, Indonesia
  - Bio: Software Engineer
- - GitHub: [sanxy](https://github.com/hutomosaktikartiko)
+ - GitHub: [hutomosaktikartiko](https://github.com/hutomosaktikartiko)
